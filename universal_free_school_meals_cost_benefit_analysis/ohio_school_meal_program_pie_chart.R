@@ -1,5 +1,5 @@
 # This file counts the number of children in Ohio whose schools participate in CEP or Provision 2, 
-# and the number of children at different poverty line levels whose schools do NOT participate in CEP or Provision 2.
+# and the number of children eligible for free, reduced, or full-priced meals whose schools do NOT participate in CEP or Provision 2.
 # Data from https://education.ohio.gov/Topics/Student-Supports/Food-and-Nutrition/Resources-and-Tools-for-Food-and-Nutrition/Data-for-Free-and-Reduced-Price-Meal-Eligibility
 
 # Load packages, using groundhog for version control
